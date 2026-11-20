@@ -1,6 +1,6 @@
 <h1>
   Sqrin
-  <img src="https://github.com/user-attachments/assets/ae6d6457-0c82-4f9d-aece-1eb51cf30559" width="128" align="left">
+  <a href="https://sqrin.app"><img src="https://github.com/user-attachments/assets/ae6d6457-0c82-4f9d-aece-1eb51cf30559" width="128" align="left"></a>
 </h1>
 
 
