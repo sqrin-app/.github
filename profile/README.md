@@ -1,6 +1,6 @@
 <h1>
   Sqrin
-  <img src="https://avatars.githubusercontent.com/u/359082138?s=500&v=4" width="128" align="left">
+  <img src="https://github.com/user-attachments/assets/719d7419-b0e9-46b8-b445-19dc6f8764fd" width="128" align="left">
 </h1>
 
 
